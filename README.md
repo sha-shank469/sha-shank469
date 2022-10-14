@@ -1,7 +1,6 @@
-[![MasterHead](https://as2.ftcdn.net/v2/jpg/02/78/37/47/1000_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)
+![MasterHead](https://as2.ftcdn.net/v2/jpg/02/78/37/47/1000_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)
 <h1 align="center">Hi 👋, I'm Shashank Mishra</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align = "right" alt = "coding" width = "400" src = "https://as2.ftcdn.net/v2/jpg/02/78/37/47/1000_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sha-shank469&label=Profile%20views&color=0e75b6&style=flat" alt="sha-shank469" /> </p>
 

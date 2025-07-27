@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Self-Driving Car**
 
-- 🌱 I’m currently learning **JavaScript , React, Nodejs**
+- 🌱 I’m currently learning **Generative AI, LLMS, MCP**
 
 - 💬 Ask me about **Data Structure & Algorithms, Machine Learning, and Deep Learning**
 
